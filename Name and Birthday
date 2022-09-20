@@ -1,11 +1,13 @@
+
+<!DOCTYPE html>
 <html>
+<head>
+<title>My first github.io website</title>
+</head>
+<body>
 
+<h1>Hello world!</h1>
+<p>🙌</p>
 
-<h1>Jenna Menetrier</h1>
-<p>September 19, 2022</p>
-
-
-
-
-
+</body>
 </html>
